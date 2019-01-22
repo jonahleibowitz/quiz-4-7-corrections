@@ -1,6 +1,12 @@
 # quiz-4-7-corrections
 
 ## Quiz 4
+Question 1: When you console.log strings and variables seperated by a comma, the comma will not be logged. I selected the option with the comma. 
+
+Question 6: This question had multiple correct ways to print to a paragraph using javascript. I only chose one of them.
+
+Question 10: I chose two correct answers for this problem but it graded one of them wrong.*
+
 
 ## Quiz 5
 Question 2: This question asked me to choose all of the valid logical operators. Instead, I selected the comparison operators. The correct answers were &&, ||, and !. These are the actual logical operators.
@@ -34,6 +40,8 @@ Question 4: This question asks you to identify which set of numbers in an array 
 
 Question 6: This question asked me to select the proper content of an array after a function was applied that populates it. The function multiplies each integer from 0 by 2 and pushes it to the array. The function uses a for loop which is set to terminate when i is equal to 9. This means the last number in the array should be 18. I chose the option that cycled through one more time and had a last value of 20 (10*2).
 
-Question 7: I answered this question correctly and was awarded the point but the answer key says that I chose the wrong answer.
+Question 7: I answered this question correctly and was awarded the point but the answer key says that I chose the wrong answer.*
 
 Question 13: I was supposed to choose all methods that would determine that a value was or wasn't in the array. I said `cars.lastIndexOf(car) !== -1`wouldn't work. I didn't know that this method returned -1 if the value wasn't there. Since this is looking to see if the index isn't -1, it would properly determine if the value was there or not.
+
+*= questions I got right but was marked wrong
