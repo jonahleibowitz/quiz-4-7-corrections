@@ -28,7 +28,7 @@ Question 14: I said that anything written in a while loop couldn't be achieved b
 ## Quiz 6
 Question 1: When fewer arguments are passed in than there are parameters, only the parameters that haven't recieved an argument will be undefined. Only the parameters that recieve arguments will be able to work so any parameters that don't recieve an argument simply can't do anything than return as undefined.
 
-Question 2:   `function power(base, exponent) {/* implementation not shown */ }` would be a better code than                              `function raise(x, y) {/* implementation not shown */ }` because the variables and function name are much more descriptive. It will be easier to understand how the function works and what its purpose is.
+Question 2:   ```function power(base, exponent) {/* implementation not shown */ }``` would be a better code than                              ```function raise(x, y) {/* implementation not shown */ }``` because the variables and function name are much more descriptive. It will be easier to understand how the function works and what its purpose is.
 
 Question 3: I said that the mystery function was designed to accept parameters while in fact, it was not. There were no variables inside of the parentheses so no arguments could be given. Without these arguments there would be no way to return a value either which I also said it would.
 
@@ -42,6 +42,6 @@ Question 6: This question asked me to select the proper content of an array afte
 
 Question 7: I answered this question correctly and was awarded the point but the answer key says that I chose the wrong answer.*
 
-Question 13: I was supposed to choose all methods that would determine that a value was or wasn't in the array. I said `cars.lastIndexOf(car) !== -1`wouldn't work. I didn't know that this method returned -1 if the value wasn't there. Since this is looking to see if the index isn't -1, it would properly determine if the value was there or not.
+Question 13: I was supposed to choose all methods that would determine that a value was or wasn't in the array. I said ```cars.lastIndexOf(car) !== -1```wouldn't work. I didn't know that this method returned -1 if the value wasn't there. Since this is looking to see if the index isn't -1, it would properly determine if the value was there or not.
 
 *= questions I got right but was marked wrong
