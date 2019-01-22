@@ -30,3 +30,10 @@ Question 6: Prompt was the only of the four built-in function that is designed t
 
 
 ## Quiz 7
+Question 4: This question asks you to identify which set of numbers in an array would prove that a function doesn't always work. The function is used to identify the largest number in the array. It does this by setting a variable equal to 0 and then assessing each number in order to see if it is larger than the value the variable is currently set to. The number after the whole array has been cycled through should be the largest. However, the correct answer has an array with only negative numbers (which are all less than 0) so the variable would never get assigned a new number. This proves that the function won't always work.
+
+Question 6: This question asked me to select the proper content of an array after a function was applied that populates it. The function multiplies each integer from 0 by 2 and pushes it to the array. The function uses a for loop which is set to terminate when i is equal to 9. This means the last number in the array should be 18. I chose the option that cycled through one more time and had a last value of 20 (10*2).
+
+Question 7: I answered this question correctly and was awarded the point but the answer key says that I chose the wrong answer.
+
+Question 13: I was supposed to choose all methods that would determine that a value was or wasn't in the array. I said `cars.lastIndexOf(car) !== -1`wouldn't work. I didn't know that this method returned -1 if the value wasn't there. Since this is looking to see if the index isn't -1, it would properly determine if the value was there or not.
